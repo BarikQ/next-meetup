@@ -1,0 +1,1 @@
+export const CONNECTION_STRING = 'mongodb+srv://admin:admin@cluster0.dfcejsx.mongodb.net/?retryWrites=true&w=majority';
